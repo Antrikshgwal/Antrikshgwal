@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🧱 Blockchain Dev: Building dApps, smart contracts (Solidity), and using Foundry, Hardhat, Chainlink<br>⚙️ Ethereum Core: Exploring EVM, Execution Layer, and protocol internals<br>🤖 AI x Web3: Creating AI agents and real-time apps with Next.js, WebSockets, TypeScript<br>🌍 FOSS Contributor: Actively contributing to open source in Web3/dev tooling projects
+🧱 Blockchain Dev: Building dApps, smart contracts (Solidity), and using Foundry, Hardhat, Chainlink<br>⚙️ Ethereum Core: Exploring EVM, Execution Layer, and protocol internals<br>🤖 AI x Web3: Creating AI agents and real-time apps with Next.js, WebSockets, TypeScript<br>🌍 FOSS Contributor: Actively contributing to open source in Web3/dev tooling projects, Currently working on [![libp2p](https://github.com/libp2p/py-libp2p)- Networking Stack
 
 
 ## 🌐 Socials:
